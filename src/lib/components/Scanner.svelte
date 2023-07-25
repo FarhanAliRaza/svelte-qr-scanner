@@ -65,7 +65,7 @@
 				scanner.stop().then((_) => {});
 			}
 			if (state == 2) {
-				// scannign
+				// scanning
 				scanner.stop().then((_) => {});
 			}
 			if (state == 0) {
